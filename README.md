@@ -160,7 +160,7 @@ Don't forget to give the project a star! Thanks again!
 
 ### Please refer to the [Contributing Manual](contributing.md) for more information.
 
-- All contributions should be made to this branch
+- All contributions should be made to the fixing.btsfy branch
 
 1. Fork the Project
 2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
