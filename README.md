@@ -1,6 +1,6 @@
 # BYTSFY
 
-# A Djang Project
+# A Django Project
 
 # About The Project
 
@@ -10,46 +10,45 @@ The application also allows users to Download their chunked files, and save them
 ## Features
 
 > - Free access to product for signed-up users
->- Acces to product information for visiting users
->- Chunking of Json files
->- Chunking of CSV files
->- Accepts large files
->- Accepts upload from file manager
->- Displays selected file name
->- Allows users to choose size of split files
->- Download split files
->- Save split files to download later.
->- Mobile compatible
->- Laptop/Desktop compatible
->- Output in zipped format
->- Reduces output size of chunked files
->- Chunking history available
->- Support available
->- Forgot password
->- Frequently asked questions available in the FAQ section.
+> - Acces to product information for visiting users
+> - Chunking of Json files
+> - Chunking of CSV files
+> - Accepts large files
+> - Accepts upload from file manager
+> - Displays selected file name
+> - Allows users to choose size of split files
+> - Download split files
+> - Save split files to download later.
+> - Mobile compatible
+> - Laptop/Desktop compatible
+> - Output in zipped format
+> - Reduces output size of chunked files
+> - Chunking history available
+> - Support available
+> - Forgot password
+> - Frequently asked questions available in the FAQ section.
 
 ## Built With
 
 This project was built with the following technologies:\
 
-* [![Python](https://img.shields.io/badge/language-Python-blue.svg)](https://www.python.org/)
-* [![Django](https://img.shields.io/badge/Framework-Django-Green.svg)](https://www.djangoproject.com/)
-* [![HTML5](https://img.shields.io/badge/language-HTML5-Blue.svg)](https://www.w3.org/html/logo/)
-* [![CSS3](https://img.shields.io/badge/language-CSS3-Blue.svg)](https://www.w3.org/Style/CSS/)
-* [![Bootstrap](https://img.shields.io/badge/Framework-Bootstrap-Green.svg)](https://getbootstrap.com/)
-* [![Javascript](https://img.shields.io/badge/language-Javascript-Blue.svg)](https://www.javascript.com/)
+- [![Python](https://img.shields.io/badge/language-Python-blue.svg)](https://www.python.org/)
+- [![Django](https://img.shields.io/badge/Framework-Django-Green.svg)](https://www.djangoproject.com/)
+- [![HTML5](https://img.shields.io/badge/language-HTML5-Blue.svg)](https://www.w3.org/html/logo/)
+- [![CSS3](https://img.shields.io/badge/language-CSS3-Blue.svg)](https://www.w3.org/Style/CSS/)
+- [![Bootstrap](https://img.shields.io/badge/Framework-Bootstrap-Green.svg)](https://getbootstrap.com/)
+- [![Javascript](https://img.shields.io/badge/language-Javascript-Blue.svg)](https://www.javascript.com/)
 
 ## Getting Started
 
 ## How to use?
 
 > - Login/signup on our website
->- Upload a file
->- Specify the chunk size
->- Specify Number of files
->- Click on the button
->- The file will be chunked and saved as .zip, ready for download
-
+> - Upload a file
+> - Specify the chunk size
+> - Specify Number of files
+> - Click on the button
+> - The file will be chunked and saved as .zip, ready for download
 
 If you want to run our project locally, you can do so by running the following commands:
 
@@ -136,8 +135,6 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-
 <!-- ROADMAP -->
 
 ## Roadmap
@@ -145,7 +142,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 - [ ] Chunk JSON/CSV files
 - [ ] Convert JSON to CSV and vice versa
 - [ ] Save and Download files from dashboard
-    - [ ] Converting other Files
+  - [ ] Converting other Files
 
 See the [open issues](https://github.com/zuri-training/Chunk_file_team_46_Bytsfy/issues?q=is%3Aopen+is%3Aissue) for a
 full list of proposed features (and known issues).
@@ -160,6 +157,10 @@ contributions you make are **greatly appreciated**.
 If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also
 simply open an issue with the tag "enhancement".
 Don't forget to give the project a star! Thanks again!
+
+### Please refer to the [Contributing Manual](contributing.md) for more information.
+
+- All contributions should be made to this branch
 
 1. Fork the Project
 2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
@@ -209,9 +210,10 @@ Don't forget to give the project a star! Thanks again!
 
 ​
 
-#### I tried chunking a file on your platform  but it didnt work, why?
+#### I tried chunking a file on your platform but it didnt work, why?
 
 > We currently accept files in csv and json formats, any other format apart from these specified will be rejected.
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Contact
@@ -221,4 +223,3 @@ Contact us mainly by leaving comments/Pull requests in our repository
 Project Link: [Here](https://github.com/zuri-training/Chunk_file_team_46_Bytsfy)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
